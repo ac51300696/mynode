@@ -1,0 +1,9 @@
+{
+	"name" : "chartrooms",
+	"version" : "0.0.1",
+	"description": "lxj chartrooms",
+	"dependencies" :{
+	"socket.io" : "~0.9.6",
+	"mine" : "~1.2.7"
+	}
+ }
