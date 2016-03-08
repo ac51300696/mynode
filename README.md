@@ -1,0 +1,2 @@
+# mynode
+my node text
